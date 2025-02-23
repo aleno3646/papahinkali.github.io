@@ -1,0 +1,14 @@
+span {
+    font-size: inherit;
+    color: #fff;
+}
+.conteiner {
+    border-color: rgb(184,184,184);
+}
+@media (max-width: 480px) {
+    img {
+      float: none;
+      margin: 0 auto;
+      display: block;
+    }
+  }
